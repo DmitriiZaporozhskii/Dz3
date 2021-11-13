@@ -56,6 +56,10 @@
 *Команда branch c тегом -d удалить ветку с именем branch_name:*
 * git branch -d branche_name
 # Справка
+*Вызывается с помощью тега --help*
+* git log --help
+* git commit --help
+
 
 # Инструкция по работе с гитом
 
